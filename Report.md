@@ -8,7 +8,7 @@ The learning algorithm used was a Deep Q Network with an underlying neural netwo
 
 The following is a plot of the rewards for the trained agent showing the 414 episodes it took to solve the problem. Over the last 100 episodes, the average score was 13.01:
 
-![plot of rewards][plot_of_rewards.png]
+![alt text](plot_of_rewards.png "Plot of Rewards")
 
 ## Ideas for Future Work
 
