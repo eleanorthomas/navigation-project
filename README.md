@@ -43,4 +43,5 @@ The solution is contained in Navigation.ipynb. Follow the steps in the Jupyter n
 - Navigation.ipynb - Solution notebook
 - model.pt - Trained model weights
 - README.md - This README
+- Report.md - Report describing the Learning Algorithm used, a plot of the rewards, and ideas for future work.
 - plot_of_rewards.png - Plot showing the rewards over each episode for the agent
